@@ -5,6 +5,6 @@ SchemaSmith was founded by developers with a passion around delivering quality d
 Visit us at [SchemaSmith.com](https://www.SchemaSmith.com) or see our [YouTube channel](https://www.youtube.com/@SchemaSmith).
 
 ### Contact us via email
-For support and "how to" questions: Support@SchemaSmith.com
-To chat with our master craftsman and YouTube spokesman: ForgeBarrett@SchemaSmith.com
-For sales and licensing inquiries: Sales@SchemaSmith.com
+* For support and "how to" questions: Support@SchemaSmith.com
+* To chat with our master craftsman and YouTube spokesman: ForgeBarrett@SchemaSmith.com
+* For sales and licensing inquiries: Sales@SchemaSmith.com
