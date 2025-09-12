@@ -1,6 +1,8 @@
 # About SchemaSmith
 
-SchemaSmith was founded by two developers with a passion around delivering quality database deployments and more than 40 years of combined experience creating and using devops centric tools to manage database schema, code, and data deployments. We have worked on both on-premise and SaaS deployments ranging from single servers to 100s of servers containing many 1000s of customer databases. We've built similar tools multiple times to support a variety of challenges and this tool suite is the culmination of those efforts. We're combining the best of those features and decades of lessons learned into a new suite of tools that is aimed at making the lives of developers and devops engineers simpler. We want you to focus on product enhancements and let us help you eliminate the guesswork in keeping your deployments smooth and your environments truly in sync. Let us help you get changes into source control in an easy to review format, providing a clear and concise view of the evolution of your schema.
+We're two developers who spent decades forging DevOps tooling for SQL Server—across on-premise and SaaS systems, from single servers to fleets hosting thousands of databases. SchemaSmith is where those hard-won lessons meet a purpose-built suite.
+
+Our tools shape metadata into clean, reviewable code, harden deployments so environments stay in sync, and quench drift before it spreads. The goal is simple: fewer surprises, faster releases, stronger systems.
 
 Visit us at [SchemaSmith.com](https://www.SchemaSmith.com) or see our [YouTube channel](https://www.youtube.com/@SchemaSmith).
 
