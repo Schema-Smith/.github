@@ -1,6 +1,6 @@
 # About SchemaSmith
 
-We're two developers who spent decades forging DevOps tooling for SQL Server, Postgres, & MySQL—across on-premise and SaaS systems, from single servers to fleets hosting thousands of databases. SchemaSmith is where those hard-won lessons meet a purpose-built suite.
+We're two developers who spent decades forging DevOps tooling for SQL Server, Postgres, MySQL, & MariaDB—across on-premise and SaaS systems, from single servers to fleets hosting thousands of databases. SchemaSmith is where those hard-won lessons meet a purpose-built suite.
 
 Our tools shape metadata into clean, reviewable code, harden deployments so environments stay in sync, and quench drift before it spreads. The goal is simple: fewer surprises, faster releases, stronger systems.
 
